@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web Sockets 
 - 💬 Ask me about how I got into coding... my previous title was "Investigator"
 - 📫 How to reach me: jmanginelli11@gmail.com
-- 😄 Pronouns: they/them
+- 😄 Pronouns: (they/them)
 - ⚡ Fun fact: When I'm not coding I love to book-bind
 -->
