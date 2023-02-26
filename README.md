@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jackie Manginelli 👋
 
 - 🔭 I’m currently working on a mobile application called Super-Stooper for New Yorkers to post their stoop sales
 - 🌱 I’m currently learning React Native and MongoDB's Realm
