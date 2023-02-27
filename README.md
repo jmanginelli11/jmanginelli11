@@ -8,3 +8,5 @@
 - 📫 How to reach me: jmanginelli11@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: When I'm not coding I love to book-bind
+
+![linkedin](https://img.shields.io/badge/[Linkedin-0e76a8?](https://www.linkedin.com/in/jackie-manginelli/)style=for-the-badge&logo=Linkedin&logoColor=white)]
